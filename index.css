@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+.cuerpo {
+    background-color:#FFE100;
+}
+.img {
+    margin-block-start: auto;
+    position: absolute;
+
+}
+.sub {
+
+    position: absolute;
+}
+.txt {
+    margin-left: 500px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.txt2 {
+    margin-left: 500px;
+    font-family: 'Oswald', sans-serif;
+}
+.txt3 {
+    margin-left: 500px;
+    font-family: 'Oswald', sans-serif;
+}
+.txt4 {
+    margin-left: 500px;
+    font-family: 'Oswald', sans-serif;
+}
